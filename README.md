@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using React Router Dom v6: unexpected routing behavior when navigating to a route that does not exist.  The provided solution shows how to correctly handle 404 errors using the `useLocation` hook to determine if the path is valid and providing a custom 404 page.
